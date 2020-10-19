@@ -34,7 +34,8 @@
 
 
 ## 1.5. The Formula - How To Calculate The Intrinsic Value of A Stock
-$Intrinsic Value= \frac {CashAndShortTermInvestments - TotalDebt + \sum_{year=1}^{n} CF_{year} DF^{year}}{NumberOfOutstandingSharesOfTheCompany}$
+![Formula](images/CodeCogsEqn.gif)
+
 
 
 

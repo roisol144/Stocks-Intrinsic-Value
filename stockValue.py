@@ -23,7 +23,7 @@ def get_jsonparsed_data(url):
 
 # API URL and Key setup
 base_url = "https://financialmodelingprep.com/api/v3/"
-apiKey = "b2118919ea87d06dfc05e4302ce4e56e"
+apiKey = ""
 ticker = "AAPL"
 
 
